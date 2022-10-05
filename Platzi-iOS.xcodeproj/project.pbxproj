@@ -17,6 +17,8 @@
 		E7393E9328ED198000ABB06C /* TextoModificadores.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7393E9228ED198000ABB06C /* TextoModificadores.swift */; };
 		E7393E9528ED1E5E00ABB06C /* Botones.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7393E9428ED1E5E00ABB06C /* Botones.swift */; };
 		E7393E9728ED22C800ABB06C /* Imagenes.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7393E9628ED22C800ABB06C /* Imagenes.swift */; };
+		E7D172DD28EDC4B400F2450E /* CamposDeTexto.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7D172DC28EDC4B400F2450E /* CamposDeTexto.swift */; };
+		E7D172DF28EDCE0F00F2450E /* Divisores.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7D172DE28EDCE0F00F2450E /* Divisores.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +52,8 @@
 		E7393E9228ED198000ABB06C /* TextoModificadores.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextoModificadores.swift; sourceTree = "<group>"; };
 		E7393E9428ED1E5E00ABB06C /* Botones.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Botones.swift; sourceTree = "<group>"; };
 		E7393E9628ED22C800ABB06C /* Imagenes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Imagenes.swift; sourceTree = "<group>"; };
+		E7D172DC28EDC4B400F2450E /* CamposDeTexto.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CamposDeTexto.swift; sourceTree = "<group>"; };
+		E7D172DE28EDCE0F00F2450E /* Divisores.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Divisores.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +111,8 @@
 				E7393E9228ED198000ABB06C /* TextoModificadores.swift */,
 				E7393E9428ED1E5E00ABB06C /* Botones.swift */,
 				E7393E9628ED22C800ABB06C /* Imagenes.swift */,
+				E7D172DC28EDC4B400F2450E /* CamposDeTexto.swift */,
+				E7D172DE28EDCE0F00F2450E /* Divisores.swift */,
 			);
 			path = "Platzi-iOS";
 			sourceTree = "<group>";
@@ -266,10 +272,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E7D172DD28EDC4B400F2450E /* CamposDeTexto.swift in Sources */,
 				E7393E9328ED198000ABB06C /* TextoModificadores.swift in Sources */,
 				E7393E9728ED22C800ABB06C /* Imagenes.swift in Sources */,
 				E7393E6B28ED195100ABB06C /* ContentView.swift in Sources */,
 				E7393E9528ED1E5E00ABB06C /* Botones.swift in Sources */,
+				E7D172DF28EDCE0F00F2450E /* Divisores.swift in Sources */,
 				E7393E6928ED195100ABB06C /* Platzi_iOSApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

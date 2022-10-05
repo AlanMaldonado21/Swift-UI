@@ -9,6 +9,7 @@ import SwiftUI
 
 struct Imagenes: View {
     var body: some View {
+        
         VStack{
             Text("No me da amsiedad esto").font(.title).foregroundColor(.green)
             
