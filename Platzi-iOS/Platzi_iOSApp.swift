@@ -11,7 +11,7 @@ import SwiftUI
 struct Platzi_iOSApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Imagenes()
         }
     }
 }
